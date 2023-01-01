@@ -8,6 +8,6 @@
 - Insérer au minimum une image par page HTML, V
 - Insérer un lien vidéo,V
 - Utiliser le CSS pour chaque page, V
-- Réaliser un tableau comparatif ou bilan ainsi qu’une liste. 
+- Réaliser un tableau comparatif ou bilan ainsi qu’une liste. V
 - Insérer un lien mail de l’auteur du site, V
 - A tout moment, l’utilisateur peut revenir à la page d’accuei V
