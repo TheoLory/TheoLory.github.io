@@ -1,0 +1,46 @@
+/* The navigation bar */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change background on mouse-over */
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+  /* Main content */
+  .main {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+  }
+  .mis-en-page-1 {
+    background-color: #333;color:#ddd;text-align: justify;
+  }
+  #bas-gauche {
+    background-attachment: fixed;
+    background-position: bottom; 
+    background-image: url(file:///C:/Users/TLORY/OneDrive%20-%20Conseil%20R%C3%A9gional%20des%20Pays%20de%20La%20Loire%20-%20Direction%20des%20Lyc%C3%A9es/Documents/GitHub/Ma-page-internet/images/th.webp)
+  }
+  .big{
+    width: 250;
+  }
+  .mis-en-page-2 {
+    background-color: #333;color:#ddd;text-align: center;
+    }
+    .MK1{
+      background-color: azure;color:olive;width: 25%;border: 2px #333;border-collapse: collapse;
+    }
